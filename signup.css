@@ -1,0 +1,55 @@
+body{
+    background-image: url(./images/grapic.jpg);
+}
+.one{
+    border: 1px solid black;
+    width: 800px;
+    height: 500px;
+    margin-left: 350px;
+    margin-top: 100px;
+    background-color:white;
+    border-radius: 20px;
+    box-shadow: 5px 4px 5px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+#one{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: grey;
+}
+.two{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    margin-left: 20px;
+}
+.three{
+    margin-left: 20px;
+    height: 80px;
+}
+input{
+    height: 30px;
+    
+}
+.four{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.five{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.seven{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+button{
+    margin-left: 350px;
+    margin-top: 50px;
+    width: 100px;
+    background-color: cornflowerblue;
+    color: white;
+}
